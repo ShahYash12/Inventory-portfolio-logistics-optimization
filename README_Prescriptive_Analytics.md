@@ -90,5 +90,5 @@ These projects replicate decisions faced in:
 Graduate Student – Engineering Management  
 University of Massachusetts Amherst  
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/yashshah033/])
+🔗 [LinkedIn][https://www.linkedin.com/in/yashshah033/]
 📫 yashy3691@email.com 
